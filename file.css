@@ -1,0 +1,78 @@
+
+
+p:hover+ .hidden_item-1 {
+    display: block;
+    transition: ease-in-out;
+}
+.course_hidden1 {
+    width: 300px;
+    height:auto;
+    padding: 20px;
+    background: #fbfbf8;
+    border: 1px solid #be5a0e;
+    border-radius: 5px;
+    
+}
+
+.card_list-item_hidden header {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 28.8px;
+    color:#3c3b37;
+    margin: 10px 0 15px;
+}
+
+.card_list-item_hidden header + p {
+    font-size: 12px;
+    color: #73726c;
+    margin-bottom: 10px;
+}
+
+.card_list-item_hidden header + p > span {
+    font-weight: bold;
+}
+
+.card_list-item_hidden p + span {
+    font-size: 12px;
+    color: #73726c;
+}
+
+.card_list-item_hidden .content {
+    font-size: 14px;
+    color: #3c3b37;
+    margin: 10px 0;
+}
+
+.card_list-item_hidden ul {
+    font-size: 14px;
+    color: #3c3b37;
+    list-style: "\1F5F8" outside;
+    margin: 0 0 20px 10px;
+}
+
+.card_list-item_hidden ul li {
+    padding-left: 4px;
+}
+
+.card_list-item_hidden input {
+    background: rgb(255, 28, 28);
+    color: #ffff;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+.card_list-item_hidden #heart {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #3c3b37;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.card_list-item_hidden #heart .heart-hidden {
+    font-size: 16px;
+    color: #3c3b37;
+}

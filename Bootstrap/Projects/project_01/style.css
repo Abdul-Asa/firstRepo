@@ -1,0 +1,17 @@
+body{
+    background: url(/Projects/project_01/abstract-background.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+.hero{
+    color: #fff;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 50px;
+    line-height: 1.2rem;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.pishur{
+    height: 100px;
+    width: 200px;
+}
