@@ -1,0 +1,104 @@
+
+body{  
+    background-color: white;
+}
+
+
+.content{
+    margin-top: 30%;
+    width: 60%;
+    margin: auto;
+    margin-bottom: 30%;
+}
+
+
+a:link{
+    color: rgb(139, 171, 177);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(139, 171, 177);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(124, 166, 221);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+h2{
+    color: black;
+    font-family: Helvetica;
+    
+
+}
+
+h2:hover{
+    color: rgb(124, 166, 221);
+    cursor: pointer;
+    
+}
+
+.links{
+    font-family: Helvetica;
+    color: gray;
+    word-spacing: 20px;
+    background-origin: padding-box;
+}
+
+.essayTitle{
+    margin-top: 70px;
+    line-height: 10px;
+}
+
+h1{
+    color: black;
+    font-family: Helvetica;
+}
+
+.blogDate{
+    font-style: italic;
+    color: grey;
+}
+.date{
+    color: rgb(139, 171, 177)
+}
+
+.date:hover{
+    color: rgb(124, 166, 221);
+    cursor: pointer;
+}
+
+.essay{
+    color: rgb(102, 95, 95);
+    font-weight:530;
+    font-size: 19px;
+    line-height: 30px;
+    font-family:"Arial, Helvetica, sans-serif";
+}
+
+.ending{
+    font-style: italic;
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.coffee{
+    color: rgb(139, 171, 177)
+}
+.coffee:hover{
+    color: rgb(124, 166, 221);
+    cursor: pointer;
+}
+.posts{
+    font-family: Helvetica;
+    color: gray;
+    line-height: 22px;
+}
+
+.copyright{
+    font-size: small;
+   
+}
